@@ -1,1 +1,2 @@
 # AstroGram
+Astrogram was created to show users 6 photos from NASA's astronomy picture of the day API that they can like or share. [You can view the deployed version here](https://ejkennelly.github.io/AstroGram/)
