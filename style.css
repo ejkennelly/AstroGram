@@ -1,0 +1,49 @@
+.like {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+  }
+  
+  .dislike {
+    background: url("..img/dislike.svg") no-repeat;
+  }
+  
+  .liked {
+    background: url("..img/like.svg") no-repeat;
+  }
+  
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55acee;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
