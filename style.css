@@ -7,11 +7,11 @@
   }
   
   .dislike {
-    background: url("..img/dislike.svg") no-repeat;
+    background: url("img/dislike.svg") no-repeat;
   }
   
   .liked {
-    background: url("..img/like.svg") no-repeat;
+    background: url("img/like.svg") no-repeat;
   }
   
   .fa {
